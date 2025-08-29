@@ -1,0 +1,9 @@
+INFO:root:A Record (IP Address) for example.com: 23.192.228.84
+INFO:root:MX Record: . (priority 0)
+ERROR:root:Failed to resolve CNAME records: The DNS response does not contain an answer to the question: example.com. IN CNAME
+INFO:root:A Record (IP Address) for example.com: 23.192.228.84
+INFO:root:MX Record: . (priority 0)
+ERROR:root:Failed to resolve CNAME records: The DNS response does not contain an answer to the question: example.com. IN CNAME
+INFO:root:A Record (IP Address) for example.com: 23.192.228.80
+INFO:root:MX Record: . (priority 0)
+ERROR:root:Failed to resolve CNAME records: The DNS response does not contain an answer to the question: example.com. IN CNAME

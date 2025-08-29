@@ -8,7 +8,7 @@ smtp_server = "smtp.gmail.com"
 port = 587
 sender_email = "bhargav159509@gmail.com"
 password = "gsxcbynkgzfucsbn"   # <-- use App Password here
-receiver_email = "ganesh_2301ee32@iitp.ac.in"
+receiver_email = "bhargav_2301mc24@iitp.ac.in"
 
 try:
     server = smtplib.SMTP(smtp_server, port)
